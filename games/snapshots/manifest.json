@@ -1,0 +1,362 @@
+[
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/assets/js/cdn-compat.js",
+    "path": "snapshots/assets/js/cdn-compat.js",
+    "bytes": 12147,
+    "sha256": "953a7ce6e2dfffe16707a10ad7c80531cbbe54ef70eace3bf86133435ccabd60"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/assets/js/cloud-saves.js",
+    "path": "snapshots/assets/js/cloud-saves.js",
+    "bytes": 171259,
+    "sha256": "ec5826dd259fa5bbef57a89a64e3189f0841e6723ad113229ea87664d4c0f22d"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/assets/js/save-agent.js?v=4",
+    "path": "snapshots/assets/js/save-agent.js",
+    "bytes": 33683,
+    "sha256": "b0c540a7f508bc8df026f9807379d39d4155a9b9823b27dbebb5e773e69fb697"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/assets/js/save-agent.js",
+    "path": "snapshots/assets/js/save-agent.js",
+    "bytes": 33683,
+    "sha256": "b0c540a7f508bc8df026f9807379d39d4155a9b9823b27dbebb5e773e69fb697"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/a82f15d48dbc61b6edeb.woff2",
+    "path": "snapshots/misc/polytrack-0.4.1/a82f15d48dbc61b6edeb.woff2",
+    "bytes": 16128,
+    "sha256": "2fba4288f7a8ab5d5204f9b3ba714f114223c2d1aab71f1249d3af6ace0bac3d"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/audio/music.mp3",
+    "path": "snapshots/misc/polytrack-0.4.1/audio/music.mp3",
+    "bytes": 2933146,
+    "sha256": "ed09ed4b903016d7cb3bdc1fdf549c4b908fa142ca2dba2c3dfa24190747d333"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/forced_square.json",
+    "path": "snapshots/misc/polytrack-0.4.1/forced_square.json",
+    "bytes": 47132,
+    "sha256": "5978fb220f0eb11cb1720529b5e2e2ed368909a18582865db81802987895e532"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/apply.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/apply.svg",
+    "bytes": 182,
+    "sha256": "fa34e7b9b6d07e9d0396ad7470ee166e1a19df79e64b84031af69f72f1cd425f"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/arrow_down.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/arrow_down.svg",
+    "bytes": 136,
+    "sha256": "f82833135916c810ee81d312dbb109d353bb0e68b88f1df5523d68b391f97167"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/arrow_left.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/arrow_left.svg",
+    "bytes": 134,
+    "sha256": "0a7ee04ad811a452205d4919af4f934a5a7954e4981f804bb05257e6fa3f9e26"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/arrow_right.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/arrow_right.svg",
+    "bytes": 136,
+    "sha256": "5e5ede87cdf7878c1e10b1b91abbe53d7b11c9a97192eba296f898b9176a657a"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/arrow_up.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/arrow_up.svg",
+    "bytes": 135,
+    "sha256": "6d880cf86bbad425edeea4423b6bce0b7e221c56a384ebe551d913f7435b10b5"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/back.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/back.svg",
+    "bytes": 367,
+    "sha256": "fb8010a43fdfa5c5c79b75992c3f5f17924f956bb0513e71525883aa2373e9d1"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/cancel.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/cancel.svg",
+    "bytes": 255,
+    "sha256": "193dcbf25a3b80eed7cf82a095f5dc7002ef413b4965c58ffb5fe3be23c97722"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/car_stripe.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/car_stripe.svg",
+    "bytes": 3518,
+    "sha256": "34ac07525bdd59916d9ee5e0f34affc0d8a2e27645b70fd7d4cc94026826fc23"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/checkpoint.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/checkpoint.svg",
+    "bytes": 486,
+    "sha256": "592faaaf6eb4ec79c36eb6f8c99f23acc63dc00cf6fcaac1711621df680c7fa4"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/clouds.jpg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/clouds.jpg",
+    "bytes": 322867,
+    "sha256": "cbaf577306d6a23c8725db73a734befbf81d67e1a68fecdbdfdb9bc1befe7ef8"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/copy.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/copy.svg",
+    "bytes": 355,
+    "sha256": "b975fc47e680293d424f453582ff193dac41ab01816a4c5578be8bad89400bc8"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/customize.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/customize.svg",
+    "bytes": 2368,
+    "sha256": "3edefefceecd19f5af466d451720730057618b644955d31c14eb72aa8d0045ab"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/delete.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/delete.svg",
+    "bytes": 444,
+    "sha256": "1708d9e6e3a0f0e6f47c981e7ed588e6cb7a2f96da91f6b864867d4d3c4b0128"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/discord.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/discord.svg",
+    "bytes": 3719,
+    "sha256": "fb9549a89886da8e086d2fad32f7f2b4dd8220f9dd5c47b7c9494597db9cc6eb"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/editor.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/editor.svg",
+    "bytes": 1153,
+    "sha256": "5f315fb854375120642efabd6657aacb1c3402f18ad403f10887036548b45b14"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/erase.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/erase.svg",
+    "bytes": 376,
+    "sha256": "b9ce922ccb1d74fcf923863b9325dd07582ee1dac1f7cbcae3a6be7c34a93533"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/export.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/export.svg",
+    "bytes": 491,
+    "sha256": "2913bc7e1064cbaabe5b32eaf4245e7c84d8263359c139d83c8c9fb053f149a6"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/helmet.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/helmet.svg",
+    "bytes": 3839,
+    "sha256": "0b206fa5ce6df8657f1bec245d9a194c63d1025a4a9a6a72ef691c54637b95d0"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/help.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/help.svg",
+    "bytes": 1037,
+    "sha256": "be696705d3c57e49ed755323be4c0aa6d3c36f15bdd3e7ca11128ed26915ce5f"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/icon.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/icon.svg",
+    "bytes": 911,
+    "sha256": "ef49e4d2acf4964324f9b20c48974997336119e90ea32965010b942e8822a9ae"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/import.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/import.svg",
+    "bytes": 477,
+    "sha256": "7a9745e2c1d9abebb26db79f8b754b2f8fddf6e21fa918c7e6349ded174026a7"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/load.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/load.svg",
+    "bytes": 393,
+    "sha256": "ab27207d543596a9ca40ba700bfa2edd99c63bff4a2e8088b09283095453ddb3"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/logo.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/logo.svg",
+    "bytes": 4891,
+    "sha256": "d5d6a2b8d51aed5edd47f86cd34556677bda6b8435cd0b12a011c1da719ba2fe"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/pause.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/pause.svg",
+    "bytes": 157,
+    "sha256": "25e00521ce5ecdc42a176418edfefde3df3e4e3c5aa7393086bb6f48f04b8263"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/pin.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/pin.svg",
+    "bytes": 294,
+    "sha256": "5ca1a8ed88c6b84c188f47d0fb9c05e97d42ad8c7ab7f909bb134f4bfc4d76e1"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/play.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/play.svg",
+    "bytes": 245,
+    "sha256": "2fbdbd6f901a61f7419faedab6debdad7c4261f7a2d4c8214015238c40ed9c7d"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/preview.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/preview.svg",
+    "bytes": 249,
+    "sha256": "6f3bff58a3a083f7db7464df713df13f0f122388317849aa4eb49e9707bd9bbf"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/quit.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/quit.svg",
+    "bytes": 224,
+    "sha256": "8eeb60bba3cebc3780faf1f08231f2489fb6175c45daa30cca9494595c6a29c7"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/random.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/random.svg",
+    "bytes": 2148,
+    "sha256": "7193eb3852d446073e9e8a3d5aeb1271a6ad969a4d2b561b6178d0c5cc3f96dc"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/reset_settings.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/reset_settings.svg",
+    "bytes": 1112,
+    "sha256": "d58abda88a8676c044f0f7797f9be2d5dfe5147f9c24bd16de3eade2aff0316f"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/reset.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/reset.svg",
+    "bytes": 383,
+    "sha256": "ec9c7bd251f106739ec8cce23450b04628854e6922d3493fe4264d99681b6cd1"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/rotate.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/rotate.svg",
+    "bytes": 342,
+    "sha256": "627ed8fcb8e466241f5f4568a94af5e01ff35e763e14f61529dab34e49aca6a1"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/save.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/save.svg",
+    "bytes": 207,
+    "sha256": "0769f952a5cf16a22dcc4102cedb2e59d2178dbeb52ab7bad920d8165d59d334"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/settings.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/settings.svg",
+    "bytes": 782,
+    "sha256": "d022d05db6d3a0123510aa9ccbf91f78815319add2ea622ea27faec309bfe372"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/smoke.png",
+    "path": "snapshots/misc/polytrack-0.4.1/images/smoke.png",
+    "bytes": 30359,
+    "sha256": "f59048238d5767cdf1ce629ccb36fc847342a2b2a6723b084a5e584c26f91d92"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/state_invalid.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/state_invalid.svg",
+    "bytes": 356,
+    "sha256": "089ab6a8b6cade11d4d6a43772c6164670ab92df8d7e41581dfa155b0c08f417"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/state_pending.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/state_pending.svg",
+    "bytes": 208,
+    "sha256": "3c9ae32c0104ac727509e7fce0211ceba101616e0b1ceed68d63c0f1efed7a45"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/state_verified.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/state_verified.svg",
+    "bytes": 271,
+    "sha256": "4b27eb6caffda85b949209f618557bf7f6b46920286db623292cdd1888eb4793"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/test.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/test.svg",
+    "bytes": 890,
+    "sha256": "1eaa5e961b02dd5cb3fd536003336a32e81205692f67fa0ca2bc926ac6c72793"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/images/verified.svg",
+    "path": "snapshots/misc/polytrack-0.4.1/images/verified.svg",
+    "bytes": 259,
+    "sha256": "4e7396a9e268d3b1ae39a6431a91232a91c6ee84724a2969b8b7c4835d1e3da2"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/",
+    "path": "snapshots/misc/polytrack-0.4.1/index.html",
+    "bytes": 948,
+    "sha256": "8a8acf3f8b3e101e28b85e6c204d2fc4169f1c962fef5078f749b599f08893f2"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/lib/ammo.wasm.js",
+    "path": "snapshots/misc/polytrack-0.4.1/lib/ammo.wasm.js",
+    "bytes": 442338,
+    "sha256": "7c7a01632e0f5d9e6ec0186102886de2baec34f8ce1553df7ef7f7f1cef1338e"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/main.bundle.js",
+    "path": "snapshots/misc/polytrack-0.4.1/main.bundle.js",
+    "bytes": 1273192,
+    "sha256": "51b75e04193c995c15f6b89da6bcce645c1c63ed784129c280c7b645ae45523d"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/manifest.json",
+    "path": "snapshots/misc/polytrack-0.4.1/manifest.json",
+    "bytes": 371,
+    "sha256": "01231fd2568805de3c42f47c14c1f2e203a57c4a1b6175ee4cb4ee8965d6e6d5"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/models/block.glb",
+    "path": "snapshots/misc/polytrack-0.4.1/models/block.glb",
+    "bytes": 32336,
+    "sha256": "a1e4cd114ac4ac8c9ae7babec3a9fb6d9eaa961f2663ee6bae31fc9c8cd5c2cc"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/models/car.glb",
+    "path": "snapshots/misc/polytrack-0.4.1/models/car.glb",
+    "bytes": 101824,
+    "sha256": "4d172ee6c1fbb5e9bf7c8d7c05611c68abdccd49db38cb52354e5c3761b992f4"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/models/pillar.glb",
+    "path": "snapshots/misc/polytrack-0.4.1/models/pillar.glb",
+    "bytes": 64092,
+    "sha256": "0eed6e8fa78eac7ffb5e71aa15736bc08ff5baa0ad9d1ab46111d0f5c3ee74e6"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/models/plane.glb",
+    "path": "snapshots/misc/polytrack-0.4.1/models/plane.glb",
+    "bytes": 78404,
+    "sha256": "02f17c7f13f429e1c1a609e1764dcea4ca62256556c34fd9f9938048e84451e9"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/models/road_wide.glb",
+    "path": "snapshots/misc/polytrack-0.4.1/models/road_wide.glb",
+    "bytes": 161336,
+    "sha256": "1b22daf355955e2a5679ee50fbe815b95622aa61274b29aca971e209a3387e94"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/models/road.glb",
+    "path": "snapshots/misc/polytrack-0.4.1/models/road.glb",
+    "bytes": 780236,
+    "sha256": "467f4cfc5873563e0515df60dcc6b8a68ad284883305fa38129404665e11da0b"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/models/signs.glb",
+    "path": "snapshots/misc/polytrack-0.4.1/models/signs.glb",
+    "bytes": 37896,
+    "sha256": "1f5dfc5f7e45e7468a40e7cde88f5b329cb12f4f3b16c4bedb2176eec375bec8"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/models/wall_track.glb",
+    "path": "snapshots/misc/polytrack-0.4.1/models/wall_track.glb",
+    "bytes": 408268,
+    "sha256": "8d4b85a584446ea2f04cf2216cf75c9f317b5c2c2cf1d53f34d76ee95141aed6"
+  },
+  {
+    "url": "https://darkmangopsychology.pagostepeapulco.gob.mx/misc/polytrack-0.4.1/simulation_worker.bundle.js",
+    "path": "snapshots/misc/polytrack-0.4.1/simulation_worker.bundle.js",
+    "bytes": 400593,
+    "sha256": "206606dea31df2638a9e11d7913dc99e5451bb41e6234ec798791c2583e850f1"
+  }
+]
